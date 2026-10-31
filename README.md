@@ -6,6 +6,8 @@ Drive Letter, Drive Name, Total Size, Size Used, Size Free, File Count, Folder C
 
 Results can be exported to CSV.
 
+<img width="1318" height="567" alt="BDAT" src="https://github.com/user-attachments/assets/f26ab041-32fb-4d6e-8f80-c0311d8845ae" />
+
 ## Run from source
 
 Requires Windows 10 and Python 3.8 or newer. No extra packages are needed.
